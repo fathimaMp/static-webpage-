@@ -11,13 +11,20 @@ The theme is based on food and cooking, aiming to explore layout, fonts, images,
 It is not a fully functional website—just a front-end layout.
 
 📸 Preview
+------------
+
+![image](https://github.com/user-attachments/assets/aa11653c-2f15-4674-81fd-204ca95da38d)
 
 
 💡 What I Learned
 -------------------
 
 How to structure a webpage using HTML5
+
 Styling using CSS3
+
 Using Google Fonts for better typography
+
 Creating a responsive layout using wrapper sections
+
 Organizing content with images, links, and headings

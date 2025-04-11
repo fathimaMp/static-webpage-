@@ -4,11 +4,13 @@ NFTERS 🍽️ — Static Website for Study
 This is a simple static website project created as part of my HTML and CSS learning journey. 
 The theme is based on food and cooking, aiming to explore layout, fonts, images, and basic web structure.
 
+
 📖 Purpose
 -----------
 
 🎓 This project was built for study and practice, helping me improve my skills in HTML, CSS, and responsive design. 
 It is not a fully functional website—just a front-end layout.
+
 
 📸 Preview
 ------------

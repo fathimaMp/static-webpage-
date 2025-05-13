@@ -29,4 +29,4 @@ Using Google Fonts for better typography
 
 Creating a responsive layout using wrapper sections
 
-Organizing content with images, links, and headings
+Organizing content with images, links, and headings.

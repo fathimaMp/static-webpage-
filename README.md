@@ -7,7 +7,7 @@ The theme is based on food and cooking, aiming to explore layout, fonts, images,
 
 Purpose
 --------
-
+ 
 This project was built for study and practice, helping me improve my skills in HTML, CSS, and responsive design. 
 It is not a fully functional website—just a front-end layout.
 
